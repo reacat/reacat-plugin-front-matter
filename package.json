@@ -1,0 +1,31 @@
+{
+  "name": "reacat-plugin-front-matter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reacat/reacat-plugin-front-matter.git"
+  },
+  "keywords": [
+    "reacat",
+    "reacat-plugin",
+    "front-matter"
+  ],
+  "author": "xcatliu <xcatliu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reacat/reacat-plugin-front-matter/issues"
+  },
+  "homepage": "https://github.com/reacat/reacat-plugin-front-matter",
+  "dependencies": {
+    "capitalize": "^1.0.0",
+    "front-matter": "^1.0.0",
+    "fs-extra": "^0.20.1",
+    "moment": "^2.10.3",
+    "object-assign": "^3.0.0"
+  }
+}
